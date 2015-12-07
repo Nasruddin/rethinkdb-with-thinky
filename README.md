@@ -2,4 +2,4 @@
 
 #Todo example with Thinky and ExpressJS
 
-#Credits : https://github.com/neumino/thinky
+Credits : https://github.com/neumino/thinky
