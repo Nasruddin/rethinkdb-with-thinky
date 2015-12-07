@@ -1,0 +1,10 @@
+{
+    "name": "Todos-thinky-example"
+  , "version": "0.0.2"
+  , "private": true
+  , "dependencies": {
+      "express": "4.0.0"
+    , "body-parser": "1.0.2"
+    , "thinky": "~1.15.6"
+  }
+}
